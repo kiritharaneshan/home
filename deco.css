@@ -1,0 +1,21 @@
+/* This is the intended CSS file for my HTML webpages */
+ 
+   h3 {
+       color:brown;
+   }
+   
+   h4 {
+       font-style:italic; font-size:18px;
+   }
+   
+   html {
+       background-color:orange;
+   }
+   
+   table {
+       color:black;
+   }
+   
+   h5 {
+       text-align:center; font-size:15px;
+   }
