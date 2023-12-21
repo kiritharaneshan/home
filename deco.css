@@ -3,7 +3,7 @@
    h3 {
        color:brown;
    }
-   
+
    h4 {
        font-style:italic; font-size:18px;
    }
@@ -18,4 +18,24 @@
    
    h5 {
        text-align:center; font-size:15px;
+   }
+   
+   html {
+       text-align:center;
+   }
+   
+   .alignleft {
+       text-align:left; font-size:20px;
+   }
+   
+   #brown {
+       color:brown;
+   }
+   
+   #red {
+       color:red;
+   }
+   
+   #lightgreen{
+       background-color:lightgreen;
    }
