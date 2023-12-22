@@ -3,7 +3,7 @@
    h3 {
        color:brown;
    }
-
+   
    h4 {
        font-style:italic; font-size:18px;
    }
@@ -38,4 +38,12 @@
    
    #lightgreen{
        background-color:lightgreen;
+   }
+   
+   #blue{
+       background-color:lightblue;
+   }
+   
+   #white{
+       color:White;
    }
