@@ -1,0 +1,355 @@
+chocolatecake.html:
+------------------
+<!doctype html>
+<!--This is my HTML page for creating a chocolate cake.-->
+
+<html id="blue">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="deco.css">
+        <title>How to create a chocolate cake!</title>
+    </head>
+    <body>
+        <h1>How to create a chocolate cake!</h1>
+        <h4 id="orange">Hungry for an amazing cake? This guide will show you how to bake a chocolate cake!</h4>
+        <img src="images/frostycake.jpg" width=320px height=320px alt="Chocolate Cake">
+        <h6 class="alignleft" id="white">
+            Ingredients needed:
+            <ul>
+                <li>1/4 cup baking cocoa</li>
+                <li>1 cup water</li>
+                <li>1 cup canola oil</li>
+                <li>1/2 cup butter, cubed</li>
+                <li>2 cups self-rising flour</li>
+                <li>2 cups sugar</li>
+                <li>1/2 cup buttermilk</li>
+                <li>2 eggs</li>
+            </ul>
+            For Frosting:
+            <ul>
+                <li>1/2 cup butter, cubed</li>
+                <li>1/4 cup baking cocoa</li>
+                <li>1/4 cup milk</li>
+                <li>4 to 4-1/2 cups confectioners' sugar</li>
+                <li>1 teaspoon vanilla extract</li>
+            </ul>
+        </h6>
+        <h6 class="alignleft">
+            Instructions:
+            <ol>
+                <li>In a small saucepan over medium heat, combine cocoa and water until smooth; add the oil and butter. Bring to a boil; cook and stir for 1 minute. Remove from the heat.
+                <li>In a large bowl, combine flour and sugar; gradually add cocoa mixture, beating until well combined. Beat in buttermilk and eggs.</li>
+                <li>Pour into a greased 15x10x1-in. baking pan. Bake at 350° for 28-30 minutes or until a toothpick inserted in the center comes out clean. Cool on a wire rack.</li>
+                <li>Cut cake into four 7-1/2x5-in. rectangles. Wrap two of the rectangles separately in foil; refrigerate or freeze. Set the other two rectangles aside.</li>
+                <li>For frosting, in a small saucepan, combine the butter, cocoa and milk. Bring to a boil; cook and stir for 1 minute (the mixture will appear curdled).</li>
+                <li>Pour into a large bowl. Gradually add confectioners' sugar and vanilla; beat until frosting achieves desired spreading consistency. Spread frosting between layers and over the top and sides of cake.</li>
+                <li>Take a few pieces of your cake and enjoy!</li>
+            </ol>
+        </h6>
+        <h4 align="center"> Explore the tasty recipies below! </h4>
+        <h5>
+            <br>
+                Main page: <a href="index.html">Welcome to delicious chocolate recipes!</a> 
+            </br>
+            <br>
+                Hot Cocoa: <a href="hotcocoa.html">How to make hot chocolate!</a>
+            </br>
+            <br>
+                Double Chocolate Chip Cookies: <a href="chocolatecookie.html">Making warm double chocolate chip cookies!</a> 
+            </br>
+            <br>
+                References: <a href="reference.html">Reference Page</a>
+            </br>
+            <br>
+                Go to top: <a href="#top">Back to top of page</a>
+            </br>
+        </h5>
+    </body>
+</html>
+
+chocolatecookie.html:
+--------------------
+<!doctype html>
+<!--This is my HTML page for creating double chocolate chip cookies.-->
+
+<html id="pink">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="deco.css">
+        <title>How to create double chocolate cookies!</title>
+    </head>
+    <body>
+        <h1>How to create double chocolate cookies!</h1>
+        <h4 id=orange>Bite into a cookie of immense deliciousness! This recipe will guide you to creating a batch of double chocolate chip cookies!</h4>
+        <img src="images/warmcookie.webp" width=270px height=380px alt="double chocolate chip cookies">
+        <h6 class="alignleft" id="fontblue">
+            Ingredients needed:
+            <ul>
+                <li>150 g Dark chocolate</li>
+                <li>175 g Light brown sugar</li>
+                <li>75 g Butter</li>
+                <li>1 Egg</li>
+                <li>1 tsp Vanilla extract</li>
+                <li>100 g Self raising flour </li>
+                <li>25 g Cocoa powder</li>
+                <li>150 g White chocolate chips</li>
+            </ul>
+        </h6>
+        <h6 class="alignleft">
+            Instructions:
+            <ol>
+                <li>Pre-heat your oven to 160C Fan/180C/350F/Gas 4, and line baking trays with baking paper.</li>
+                <li>Melt the dark chocolate in a glass bowl over a pan of shallow water on a very low heat. Make sure the water does not touch the bowl.</li>
+                <li>In a bowl mix together the light brown sugar and butter.</li>
+                <li>Add the egg and vanilla extract and mix well.</li>
+                <li>Add the self raising flour and cocoa powder and mix in.</li>
+                <li>Pour in the melted dark chocolate and mix well</li>
+                <li>Add the chocolate chips. then cover the bowl and chill the mixture for 15 minutes in the fridge.</li>
+                <li>Scoop the mixture out with a spoon and roll each piece into a ball and flatten it down a little with your hands. Place onto the lined baking trays. Leave space in between them as they will expand when baking.</li>
+                <li>Bake for 8-12 minutes. eave them on the tray for at least 5 minutes to harden, then move to a cooling rack.</li>
+                <li>Take some of the cookies you baked and enjoy!</li>
+            </ol>
+        </h6>
+        <h4 align="center"> Explore the tasty recipies below! </h4>
+        <h5>
+            <br>
+                Main Page: <a href="index.html">Welcome to delicious chocolate recipes!</a> 
+            </br>
+            <br>
+                Hot Chocolate: <a href="hotcocoa.html"> How to make hot chocolate!</a>
+            </br>
+            <br>
+                Chocolate Cake: <a href="chocolatecake.html">How to create a chocolate cake!</a>
+            </br>
+            <br>
+                References: <a href="reference.html">Reference Page</a>
+            </br>
+            <br>
+                Go to top: <a href="#top">Back to top of page</a>
+            </br>
+        </h5>
+    </body>
+</html>
+
+deco.css:
+--------
+/* This is the intended CSS file for my HTML webpages */
+ 
+   h3 {
+       color:brown;
+   }
+   
+   h4 {
+       font-style:italic; font-size:18px;
+   }
+   
+   html {
+       background-color:orange;
+   }
+   
+   table {
+       color:black;
+   }
+   
+   h5 {
+       text-align:center; font-size:15px;
+   }
+   
+   html {
+       text-align:center;
+   }
+   
+   .alignleft {
+       text-align:left; font-size:20px;
+   }
+   
+   #brown {
+       color:brown;
+   }
+   
+   #red {
+       color:red;
+   }
+   
+   #lightgreen{
+       background-color:lightgreen;
+   }
+   
+   #blue{
+       background-color:lightblue;
+   }
+   
+   #white{
+       color:White;
+   }
+   
+   #pink{
+       background-color:lightpink;
+   }
+   
+   #orange{
+       color:orangered;
+   }
+   
+   #fontblue{
+       color:blue;
+   }
+
+hotcocoa.html:
+-------------
+<!doctype html>
+<!--This is my HTML page for creating hot chocolate.-->
+
+<html id="lightgreen">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="deco.css">
+        <title>How to create hot chocolate!</title>
+    </head>
+    <body>
+        <h1>How to create hot chocolate!</h1>
+        <h4>This guide will show you a delicious recipe for making hot chocolate! </h4>
+        <img src="images/hotchocolate.jpg" width=480px height=320px alt="Mug of Hot Chocolate">
+        <h6 class="alignleft" id="brown">
+            Ingredients needed:
+            <ul>
+                <li>1 cup whole milk</li>
+                <li>1 ½ teaspoons brown sugar</li>
+                <li>2 ounces dark chocolate, finely chopped</li>
+                <li>1 tablespoon heavy whipped cream</li>
+                <li>1 pinch ground cinnamon</li>
+                <li>Optional: other toppings, such as peppermint</li>
+            </ul>
+        </h6>
+        <h6 class="alignleft">
+            Instructions:
+            <ol>
+                <li>Heat milk in a saucepan over medium heat for 3 to 4 minutes.</li>
+                <li>Add brown sugar and stir until dissolved.</li>
+                <li>Stir dark chocolate for around 2 to 3 minutes until it's completely melted.</li>
+                <li>Remove the saucepan from the heat and stir in the cream and cinnamon.</li>
+                <li>Top with whipped cream, marshmallows, crushed peppermint, or any other topping of your choice. Enjoy!</li>
+            </ol>
+        </h6>
+        <h4 align="center"> Explore the tasty recipies below! </h4>
+        <h5>
+            <br>
+                Main Page: <a href="index.html">Welcome to delicious chocolate recipes!</a> 
+            </br>
+            <br>
+                Chocolate Cake: <a href="chocolatecake.html"> Making a chocolate cake!</a>
+            </br>
+            <br>
+                Double Chocolate Chip Cookies: <a href="chocolatecookie.html">Making warm double chocolate chip cookies!</a> 
+            </br>
+            <br>
+                References: <a href="reference.html">Reference Page</a>
+            </br>
+            <br>
+                Go to top: <a href="#top">Back to top of page</a>
+            </br>
+                
+        </h5>
+    </body>
+</html>
+
+index.html:
+----------
+<!doctype html>
+<!-- This is the homepage of my website -->
+
+<html> 
+    <head> 
+        <meta charset="UTF-8">
+        <title>Welcome to amazing chocolate recipes!</title>
+        <link rel="stylesheet" type="text/css" href="deco.css">
+    </head>
+    <body>
+        <h1 align="center"> Welcome to amazing chocolate recipes! </h1>
+        <h3 align="center"> Here, you can find quality recipies related to chocolate, including delicious hot cocoa, warm chocolate cake and double chocolate chip cookies! </h3>
+      
+        <table border="6" align="center"> 
+            <tr>
+                <th> 
+                    <img src="images/hotcocoa.jpg" width="200" height="320" alt="hot chocolate">
+                </th>
+                <th>
+                    <img src="images/cake.jpg" width="240" height="320" alt="chocolate cake with frosting">
+                </th>
+                <th>
+                    <img src="images/cookie.jpg" width="240"height="320" alt="double chocolate chip cookies">
+                </th>
+            </tr> 
+        </table>
+        
+        <h4 align="center"> Explore the tasty recipies below! </h4>
+        <h5>
+            <br>
+                Hot Cocoa: <a href="hotcocoa.html"> How to make hot chocolate!</a> 
+            </br>
+            <br>
+                Chocolate Cake: <a href="chocolatecake.html"> Making a chocolate cake!</a>
+            </br>
+            <br>
+                Double Chocolate Chip Cookies: <a href="chocolatecookie.html">Making warm double chocolate chip cookies!</a> 
+            </br>
+            <br>
+                References: <a href="reference.html">Reference Page</a>
+            </br>
+            <br>
+                Go to top: <a href="#top">Back to top of page</a>
+            </br>
+        </h5>
+    </body>
+</html>
+
+reference.html:
+--------------
+<!doctype html>
+<!--This is my HTML page for the sources I used.-->
+
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="deco.css">
+        <title>References</title>
+    </head>
+    <body>
+        <b>References:</b>
+        <br>
+            Mug of hot chocolate with whipped cream. (n.d.). Cooking Classy. Retrieved December 21, 2023, from <a href="https://www.cookingclassy.com/wp-content/uploads/2018/10/hot-chocolate-15-788x1182.jpg">https://www.cookingclassy.com/wp-content/uploads/2018/10/hot-chocolate-15-788x1182.jpg.</a>
+        </br>
+            Chocolate cake with frosting. (2023). THE BEST MOIST CHOCOLATE CAKE RECIPE. Retrieved December 21, 2023, from <a href="https://scientificallysweet.com/the-best-moist-chocolate-cake/">https://scientificallysweet.com/the-best-moist-chocolate-cake/.</a>
+        <br>
+            Kanell, J. (2021, August 8). Double chocolate chip cookies. Preppy Kitchen. <a href="https://preppykitchen.com/double-chocolate-chip-cookies/">https://preppykitchen.com/double-chocolate-chip-cookies/</a>
+        </br>
+        <br>
+            Chocolate cake with Cocoa frosting recipe: How to make it - taste of home. Chocolate Cake with Cocoa Frosting. (2022, September 22). <a href="https://www.tasteofhome.com/recipes/chocolate-cake-with-cocoa-frosting/">https://www.tasteofhome.com/recipes/chocolate-cake-with-cocoa-frosting/</a>
+        </br>
+        <br>
+            Fincher, M. (2020, October 23). How to make the best hot chocolate. Allrecipes. <a href="https://www.allrecipes.com/article/how-to-make-hot-chocolate/">https://www.allrecipes.com/article/how-to-make-hot-chocolate/</a>
+        </br>
+        <br>
+            Raghu, N. (n.d.). Mug of hot chocolate with Candy Cane. Archana's Kitchen. Retrieved December 22, 2023, from <a href="https://www.archanaskitchen.com/homemade-hot-chocolate-with-whipped-cream.">https://www.archanaskitchen.com/homemade-hot-chocolate-with-whipped-cream.</a>
+        </br>
+        <h4 align="center"> Explore the tasty recipies below! </h4>
+        <h5>
+            <br>
+                Main Page: <a href="index.html">Welcome to delicious chocolate recipes!</a> 
+            </br>
+            <br>
+                Hot Cocoa: <a href="hotcocoa.html"> How to make hot chocolate!</a> 
+            </br>
+            <br>
+                Chocolate Cake: <a href="chocolatecake.html"> Making a chocolate cake!</a>
+            </br>
+            <br>
+                Double Chocolate Chip Cookies: <a href="chocolatecookie.html">Making warm double chocolate chip cookies!</a> 
+            </br>
+            <br>
+                Go to top: <a href="#top">Back to top of page</a>
+            </br>
+        </h5>
+    </body>
+</html>
